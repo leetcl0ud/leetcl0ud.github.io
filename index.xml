@@ -6,7 +6,30 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jun 2023 14:48:03 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jun 2023 16:09:48 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Join Telegram</title>
+      <link>http://example.org/posts/join-telegram/</link>
+      <pubDate>Tue, 13 Jun 2023 16:09:48 +0000</pubDate>
+      
+      <guid>http://example.org/posts/join-telegram/</guid>
+      <description>翻墙机场 机场一般指的是提供Shadowsocks、V2ray 和Trojan 翻墙节点的科学上网服务商。
+kuromis机场注册
+注册好后侧边栏点击购买个人套餐
+支付宝付款后侧边栏点击获取订阅
+保存订阅地址备用
+Clash for Windows Clash：一个 Go 语言开发的多平台代理客户端, Github
+Clash for Windows：Clash 的 Windows/macOS/Linux 图形客户端, Github
+Clash for Windows 下载地址
+github下载 wetransfer下载 解压缩到文件夹之后打开 Clash for Windows.exe
+选择左侧 Profiles 标签
+将 kuromis 保存的订阅地址粘贴到顶部输入框, 并点击 Download 按钮
+选择左侧 General 标签, 并打开 System Proxy 选项即可科学上网
+Telegram Telegram网页版
+打开后点击下方 LOG IN BY PHONE NUMBER
+选择国家并输入手机号, 接受验证码后填入即可完成登录</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>http://example.org/posts/my-first-post/</link>
